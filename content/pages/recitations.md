@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: e55bbc29-f959-930f-f319-90bd860f92b4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Recitation notes courtesy of Chaithanya Bandi. Used with permission.

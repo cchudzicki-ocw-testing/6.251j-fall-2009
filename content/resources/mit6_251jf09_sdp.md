@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_251JF09_SDP.pdf
 uid: 08bbc266-0764-c4f6-1bde-5363ae134339
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
