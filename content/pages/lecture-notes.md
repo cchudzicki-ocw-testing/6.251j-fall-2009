@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a complete set of lecture notes and the schedule
+  of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -233,7 +235,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 86a320f1-d972-69a0-128d-4925121e8679 "PDF" %}})
+({{% resource_link 86a320f1-d972-69a0-128d-4925121e8679 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
